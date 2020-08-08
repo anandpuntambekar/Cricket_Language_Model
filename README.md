@@ -15,3 +15,5 @@ In the code we shall develop a language Model sing text document associated with
 using Transfer Learning
 
 Source of Data: https://www.kaggle.com/anandpuntambekar/cricketer-text-corpus-txt
+
+Google cloab link : https://colab.research.google.com/drive/1-0ZyKYc0YuJiSkinrW-g4zX8Jr9jyj_Y?authuser=1#scrollTo=FRiQJ7NG5m6f
